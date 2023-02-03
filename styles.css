@@ -1,9 +1,12 @@
-h1{
+span{
     color:red;
     background-color: white;
     text-align: center;
     font-style: italic;
 }
+
+
 p{
     color:yellow;
 }
+
