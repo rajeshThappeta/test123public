@@ -3,3 +3,5 @@ let obj={
 };
 
 console.log(obj)
+
+let arr=[10,20]
