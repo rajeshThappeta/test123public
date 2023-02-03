@@ -1,10 +1,14 @@
 h1{
     color:red;
     background-color: white;
+    text-align: center;
+    font-style: italic;
 }
 p{
     color:yellow;
 }
+
 body{
     background-color: #eee;
 }
+
